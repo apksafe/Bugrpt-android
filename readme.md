@@ -14,6 +14,7 @@ bugrpt_android
 常见问题：
 1. 导入项目可能会提醒你的sdk没有对应的buildTools，可以将build.gradle的buildToolsVersion改为你本地的版本
 如： buildToolsVersion "22.0.1"
+
 2. 运行项目可能会因为没有配置cup架构导致无法安装，可以在build.gradle中配置ndk支持的架构
 如：
 
