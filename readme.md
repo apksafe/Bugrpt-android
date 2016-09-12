@@ -1,4 +1,5 @@
-## bugrpt-android demo：
+# bugrpt-android
+
 本demo采用Android Studio Gradle方式自动导入配置，更多详细的配置参考http://crash.163.com/index.do#dumply/faq
 
 ## 常见问题:
