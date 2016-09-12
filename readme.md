@@ -2,16 +2,17 @@
 
 bugrpt_android
 	- build.gradle（project gradle配置）
-        - gradle.properties(配置android.useDeprecatedNdk=true)
+	- gradle.properties(配置android.useDeprecatedNdk=true)
 	- app(Android工程）
-          - src（源代码目录）
-			- MainActivity.java（crash初始化及测试案例）
-            - AndroidManifest.xml （配置网络权限，SDK必须的配置）
-		  - build.gradle（app gradle 配置了云捕最新bugrpt & ndk 库）
+		- src（源代码目录）
+			- MainActivity.java（crash初始化及测试案例
+			- AndroidManifest.xml （配置网络权限，SDK必须的配置）
+	    - build.gradle（app gradle 配置了云捕最新bugrpt & ndk 库）
 
 注：本demo采用Android Studio Gradle方式自动导入配置，更多详细的配置，请参考官方文档，或者直接访问http://crash.163.com/index.do#dumply/faq/
 
-常见问题：
+## 常见问题:
+
 1. 导入项目可能会提醒你的sdk没有对应的buildTools，可以将build.gradle的buildToolsVersion改为你本地的版本
 如： buildToolsVersion "22.0.1"
 
