@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BugrptDemo</string>
+    <string name="note">注意：在调用云捕初始化接口之前，请在AndroidMainfest.xml文件中配置AppID，获取AppID请参考云捕官方集成文档\n\n使用高级配置的初始化接口支持在代码中设置AppID\n\n链接：http://crash.163.com/#dumply/faq/</string>
+</resources>

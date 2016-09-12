@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_ef1607257b4fb7df8e0e97f6ae20869d2d5d28b0.jar" />
+    </item>
+    <item
+        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_72dd4e36bf2fe29d45af22adc8bafe7737f6731c.jar" />
+    </item>
+    <item
+        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_683f8b1816c512b2561b82320ba5b19c0dfa1584.jar" />
+    </item>
+    <item
+        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1878f2265c37bdca1130963adea827350327a074">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.netease.nis.plugin-bugrpt-3.6.16_e9096952af6a85876f9dddf11d2b957ecce6197e.jar" />
+    </item>
+    <item
+        jar="D:\IDE\adt-bundle-windows-x86-20130522\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_cc206b3fa930cf5dfa58b45b5bbfaaa0b7d210d3.jar" />
+    </item>
+
+</items>
