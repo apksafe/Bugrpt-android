@@ -23,11 +23,11 @@
         <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_683f8b1816c512b2561b82320ba5b19c0dfa1584.jar" />
     </item>
     <item
-        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\jars\classes.jar"
+        jar="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="1878f2265c37bdca1130963adea827350327a074">
-        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.netease.nis.plugin-bugrpt-3.6.16_e9096952af6a85876f9dddf11d2b957ecce6197e.jar" />
+        sha1="a7170e8563e4bbe35db1779f1aa2881be8fef65f">
+        <dex dex="E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\pre-dexed\debug\com.netease.nis.plugin-bugrpt-3.7_c3f5083d17c8e26d315a044811605ba220e37649.jar" />
     </item>
     <item
         jar="D:\IDE\adt-bundle-windows-x86-20130522\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"

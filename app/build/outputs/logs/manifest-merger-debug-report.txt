@@ -15,34 +15,34 @@ ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.
 		INJECTED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:4:5-74
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:11:5-75
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:11:5-75
 	android:name
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:4:22-72
 uses-permission#android.permission.INTERNET
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:5:5-66
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:13:5-67
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:13:5-67
 	android:name
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:6:5-78
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:15:5-79
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:15:5-79
 	android:name
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:7:5-75
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:17:5-76
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:17:5-76
 	android:name
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:7:22-73
 uses-permission#android.permission.READ_LOGS
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:8:5-67
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:19:5-68
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:19:5-68
 	android:name
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:8:22-65
 application
 ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:9:5-22:19
 MERGED from [com.android.support:appcompat-v7:23.0.0] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.0] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:21:5-22:19
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:21:5-22:19
 	android:label
 		ADDED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml:12:9-41
 	android:supportsRtl
@@ -77,7 +77,7 @@ uses-sdk
 INJECTED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.0.0] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.0] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.netease.nis.plugin:bugrpt:3.6.16] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.6.16\AndroidManifest.xml:7:5-9:41
+MERGED from [com.netease.nis.plugin:bugrpt:3.7] E:\client\yunbu\Android\src\bugrpt_demo\app\build\intermediates\exploded-aar\com.netease.nis.plugin\bugrpt\3.7\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
 		INJECTED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml
 		INJECTED from E:\client\yunbu\Android\src\bugrpt_demo\app\src\main\AndroidManifest.xml

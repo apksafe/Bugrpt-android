@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\client\\yunbu\\Public\\bugrpt_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\client\\yunbu\\Public\\bugrpt_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\client\\yunbu\\Android\\src\\bugrpt_demo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "E:\\client\\yunbu\\Android\\src\\bugrpt_demo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
