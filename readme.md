@@ -1,7 +1,6 @@
 # bugrpt-android
 
-本demo采用Android Studio Gradle方式自动导入配置，更多详细的配置参考http://crash.163.com/index.do#dumply/faq 
-注：demo需要配置下APPID，首先在云捕系统中添加app，然后”设置“-”产品信息“中获取APPID,填入AndroidManifest.xml文件,参考集成链接中的参数配置
+本demo采用Android Studio Gradle方式自动导入配置，更多详细的配置参考http://crash.163.com/index.do#dumply/faq ，demo需要配置下APPID，首先在云捕系统中添加app，然后”设置“-”产品信息“中获取APPID,填入AndroidManifest.xml文件,参考集成链接中的参数配置
 
 ## 常见问题:
 
