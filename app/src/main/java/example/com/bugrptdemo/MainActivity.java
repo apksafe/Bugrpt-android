@@ -60,8 +60,8 @@ public class MainActivity extends AppCompatActivity {
         UserStrategy strategy = new UserStrategy(appCtx);
         //设置渠道
         strategy.setChannel("xiaomi");
-        //高级配置支持在代码中设置AppID，无需在AndroidMainfest.xml中再次配置
-        strategy.setAppId("please input your AppID");
+        //高级配置支持在代码中设置AppID，无需在AndroidMainfest.xml中再次配置,两种方式使用任意一种即可
+        //strategy.setAppId("please input your AppID");
         //设置场景
         strategy.setScene("splash");
         //设置账户
