@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.Button;
 
 import com.netease.nis.bugrpt.CrashHandler;
-import com.netease.nis.bugrpt.ReLinker;
-import com.netease.nis.bugrpt.UserStrategy;
+import com.netease.nis.bugrpt.user.ReLinker;
+import com.netease.nis.bugrpt.user.UserStrategy;
 
 public class MainActivity extends AppCompatActivity {
     private Button bt_java, bt_ndk;
